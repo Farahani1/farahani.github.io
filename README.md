@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+My Dear Supervisor  [Dr Alireza Fatehi](https://wp.kntu.ac.ir/fatehi/).
 
 ### Jekyll Themes
 
